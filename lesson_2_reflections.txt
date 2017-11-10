@@ -1,0 +1,4 @@
+Q1: What happens when you initialize a repository? Why do you need to do it?
+A1: .git file gets created and repository can be cloned
+Q2: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A2: staging directory contains the files which are part of your commits. Working directory doesn't allow to commit straight away and view history on its own
